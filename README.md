@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 27.10.2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/6206bb77-ecbf-4dc8-9552-31a46f40779c" />
+
+### Name: Divya Dharshini S
+### Register Number: 212224240039
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
